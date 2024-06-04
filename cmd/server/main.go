@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/evgenytr/trade_labels.git/internal/handlers"
 	"github.com/labstack/echo/v4"
+
+	"github.com/evgenytr/trade_labels.git/internal/handlers"
 )
 
 func main() {
